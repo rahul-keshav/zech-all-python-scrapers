@@ -1,0 +1,210 @@
+{
+    "data": {
+        "products": {
+            "items": [
+                {
+                    "id": 49233,
+                    "name": "Ladies Assorted Floral\/Brown Wallet",
+                    "sku": "FB566",
+                    "type_id": "simple",
+                    "url_key": "ladies-assorted-floral-brown-wallet",
+                    "media_gallery_entries": [
+                        {
+                            "image": {
+                                "url": "https:\/\/www.koleimports.com\/media\/catalog\/product\/F\/B\/FB566.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360"
+                            },
+                            "thumbnail": {
+                                "url": "https:\/\/www.koleimports.com\/media\/catalog\/product\/F\/B\/FB566.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=75&width=75&canvas=75:75"
+                            }
+                        },
+                        {
+                            "image": {
+                                "url": "https:\/\/www.koleimports.com\/media\/catalog\/product\/F\/B\/FB566-2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360"
+                            },
+                            "thumbnail": {
+                                "url": "https:\/\/www.koleimports.com\/media\/catalog\/product\/F\/B\/FB566-2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=75&width=75&canvas=75:75"
+                            }
+                        },
+                        {
+                            "image": {
+                                "url": "https:\/\/www.koleimports.com\/media\/catalog\/product\/F\/B\/FB566-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360"
+                            },
+                            "thumbnail": {
+                                "url": "https:\/\/www.koleimports.com\/media\/catalog\/product\/F\/B\/FB566-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=75&width=75&canvas=75:75"
+                            }
+                        }
+                    ],
+                    "price": {
+                        "regularPrice": {
+                            "amount": {
+                                "value": 1.32
+                            }
+                        }
+                    },
+                    "special_price": 0.84,
+                    "tier_prices": [
+                        {
+                            "customer_group_id": "32000",
+                            "qty": 16,
+                            "value": 1.1
+                        },
+                        {
+                            "customer_group_id": "32000",
+                            "qty": 22,
+                            "value": 1
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "Closeouts"
+                        },
+                        {
+                            "name": "Fashion Accessories"
+                        },
+                        {
+                            "name": "Wallets & Coin Purses"
+                        },
+                        {
+                            "name": "Specials"
+                        },
+                        {
+                            "name": "Best Sellers"
+                        }
+                    ],
+                    "link_data": null,
+                    "description": {
+                        "html": "Top off an adorable outfit with these Floral and Floral Brown Wallets! If you love flowers, you will love these high-quality faux leather and uniquely designed wallets! Imagine how cute the floral one is with some floral shoes! Comes in two assorted designs, black with pink and red roses, and brown with a yellow circle pattern. Has a strap for easy holding, and a wrap-around zipper which allows the wallet to open super wide. Comes along with a tag.,Ladies Assorted Floral\/Brown Wallet,"
+                    },
+                    "stock_status": "IN_STOCK",
+                    "special_options": "18",
+                    "special_value": {
+                        "closeout": true,
+                        "new_item": false,
+                        "special": false
+                    },
+                    "pricing_model": 1,
+                    "min_qty": null,
+                    "limit_status": null,
+                    "minimum_order_qty": null,
+                    "inner_pk_qty": "2",
+                    "case_pk_qty": "48",
+                    "upc": "731015277759",
+                    "case_pk_dimensions": "29 \" (L) x9 \" (W) x8.5 \"(H) ",
+                    "weight": 0.28125,
+                    "cube_inches": "2218.5",
+                    "item_info": {
+                        "case_qty": 48,
+                        "inner_qty": 24,
+                        "input_qty": 30,
+                        "minimum": 24,
+                        "pricing_model": 1,
+                        "qty": 10554,
+                        "qty_increment": 6,
+                        "is_saleable": true,
+                        "tier_max_qty": 30
+                    },
+                    "specifications": [
+                        {
+                            "specifications_info": [
+                                {
+                                    "title": "Case Pack Quantity",
+                                    "value": "48 units",
+                                    "url": null,
+                                    "special_cats": null
+                                },
+                                {
+                                    "title": "Inner Pack Quantity",
+                                    "value": "2 units",
+                                    "url": null,
+                                    "special_cats": null
+                                },
+                                {
+                                    "title": "Upc Code",
+                                    "value": "731015277759",
+                                    "url": null,
+                                    "special_cats": null
+                                }
+                            ]
+                        },
+                        {
+                            "specifications_info": [
+                                {
+                                    "title": "Case Pack Dimensions",
+                                    "value": "29 \" (L) x9 \" (W) x8.5 \"(H) ",
+                                    "url": null,
+                                    "special_cats": null
+                                },
+                                {
+                                    "title": "Case Weight",
+                                    "value": "13.5 lb",
+                                    "url": null,
+                                    "special_cats": null
+                                },
+                                {
+                                    "title": "Case Cube",
+                                    "value": "1.28 cubic feet",
+                                    "url": null,
+                                    "special_cats": null
+                                }
+                            ]
+                        },
+                        {
+                            "specifications_info": [
+                                {
+                                    "title": "Per Piece Weight",
+                                    "value": "0.281250",
+                                    "url": null,
+                                    "special_cats": null
+                                },
+                                {
+                                    "title": "Category",
+                                    "value": "Fashion Accessories",
+                                    "url": "https:\/\/www.koleimports.com\/fashion-accessories",
+                                    "special_cats": null
+                                },
+                                {
+                                    "title": "Subcategory",
+                                    "value": "Wallets & Coin Purses",
+                                    "url": "https:\/\/www.koleimports.com\/fashion-accessories\/wallets-coin-purses",
+                                    "special_cats": null
+                                },
+                                {
+                                    "title": "Specials",
+                                    "value": null,
+                                    "url": null,
+                                    "special_cats": [
+                                        {
+                                            "url": "https:\/\/www.koleimports.com\/closeouts",
+                                            "value": "Closeouts"
+                                        },
+                                        {
+                                            "url": "https:\/\/www.koleimports.com\/specials\/best-sellers",
+                                            "value": "Best Sellers"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "prop_65": [
+                        {
+                            "title": null,
+                            "content": null,
+                            "icon_url": null,
+                            "is_enable": false
+                        }
+                    ],
+                    "deal_info": {
+                        "datetime_from": null,
+                        "datetime_to": null,
+                        "deal_price": null,
+                        "deal_qty": null,
+                        "min_order_qty": null
+                    },
+                    "special_from_date": "2021-01-21 00:00:00",
+                    "special_to_date": null
+                }
+            ]
+        }
+    }
+}
